@@ -1,0 +1,1 @@
+objective: students will use constructor functions to structure problems in a DRY way
